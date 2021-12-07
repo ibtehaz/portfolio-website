@@ -98,6 +98,7 @@ p {
 .logo {
   height: 80px;
   margin: 30px;
+  filter: brightness(0) invert(1);
 }
 .social {
   margin: 20px;
@@ -107,6 +108,8 @@ p {
   display: flex;
   justify-content: space-around;
   padding: 80px;
+
+  
 }
 
 .sub-section-alternative {
